@@ -16,7 +16,7 @@ Hello there! I'm SANJU JAYACHANDRAN, a passionate software engineer with 2 years
 - [**LinkedIn:**] (https://www.linkedin.com/in/sanjujayachandran/)
 - [**GitHub:**] (https://github.com/Sanjujc)
 
-Feel free to reach out if you want to discuss software development, collaboration opportunities, or just have a tech chat. I'm always open to connecting with fellow developers!
+Feel free to reach out if you want to discuss software development, collaboration opportunities, or just have a tech chat. I'm always open to connecting with fellow developers!.
 
 ## 🙏 Acknowledgments
 I believe in continuous learning, and I want to express my gratitude to the developer community for the inspiration and knowledge sharing.
