@@ -20,6 +20,5 @@ Feel free to reach out if you want to discuss software development, collaboratio
 
 ## 🙏 Acknowledgments
 I believe in continuous learning, and I want to express my gratitude to the developer community for the inspiration and knowledge sharing.
-
 ---
 
