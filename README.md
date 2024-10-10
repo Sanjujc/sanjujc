@@ -44,10 +44,7 @@
 
  
 <!-- GitHub Stats Section -->
-<p align="center">
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sanjujc&show_icons=true&locale=en&layout=compact" alt="sanjayjayachandran" />
-</p>
- 
+
 <p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=sanjujc&show_icons=true&locale=en" alt="sanjayjayachandran" />
 </p>
