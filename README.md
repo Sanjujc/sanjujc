@@ -4,7 +4,7 @@
  
 <!-- Contact Information -->
 <p align="center">
-  📫 How to reach me: <a href="mailto:sanjayjayachandran@gmail.com">sanjayjayachandran@gmail.com</a>
+  📫 How to reach me: <a href="mailto:sanju.jayachandran.d@gmail.com">sanju.jayachandran.d@gmail.com</a>
 </p>
  
 <!-- Skills Section -->
