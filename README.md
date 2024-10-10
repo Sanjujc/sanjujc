@@ -44,10 +44,16 @@
 
  
 <!-- GitHub Stats Section -->
+<!-- GitHub Stats Section -->
 <p align="center">
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sanjujc&show_icons=true&locale=en&layout=compact" alt="sanjayjayachandran" />
+  <!-- Manually add Python as the first language -->
+  <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
 </p>
- 
+
+<p align="center">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sanjujc&show_icons=true&locale=en&layout=compact&hide=python" alt="sanjayjayachandran" />
+</p>
+
 <p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=sanjujc&show_icons=true&locale=en" alt="sanjayjayachandran" />
 </p>
