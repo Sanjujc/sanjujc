@@ -71,9 +71,6 @@ Currently, I am working at **Knowledge Lens: A Rockwell Automation Company** in 
 - Logging and Monitoring using Loguru
 - Data Analysis and Machine Learning
 
-## Projects
-- **Parking Management System (PMS)**: A microservice-based system built using FastAPI and PostgreSQL that helps landowners register and manage parking spaces, with features like shortest path detection for users.
-- **User Management Microservice**: Developed a standalone user management service using FastAPI with JWT-based authentication, role-based access control, and integrations with external services.
 
 <!-- Add more projects as needed -->
  
