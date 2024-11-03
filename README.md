@@ -1,6 +1,6 @@
 <!-- Header Section --> 
 <h1 align="center">Hello, I'm Sanju Jayachandran! 👋</h1>
-<h2 align="center" color='red'>I know how to gets things done!!!</h2>
+<h2 align="center" color='red'>I know how to get things done!!!</h2>
 <h3 align="center"> Software Engineer | Backend Developer | API Specialist</h3>
  
 <!-- Contact Information -->
