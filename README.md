@@ -55,7 +55,7 @@
 
  
 <p align="center">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sanjujc&" alt="sanjayjayachandran" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sanjujc&" alt="sanjayjayachandran"/>
 </p>
  
 <!-- About Me and Interests Section -->
