@@ -1,6 +1,5 @@
 <!-- Header Section --> 
-<h1 align="center">Hello, I'm Sanju Jayachandran! 👋</h1> [![Visitor Count](https://komarev.com/ghpvc/?username=sanjujc&color=brightgreen)
-
+<h1 align="center">Hello, I'm Sanju Jayachandran! 👋</h1> 
 <h2 align="center" color='red'>I know how to get things done!!!</h2>
 <h3 align="center"> Software Engineer | Backend Developer | API Specialist</h3>
  
@@ -54,11 +53,7 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dynamic Quotes"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=sanjujc&layout=compact" alt="sanjayjayachandran"/>
-</p>
-
- 
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=sanjujc&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&card_width=503" alt="GitHub Streak" /></a>
 <p align="center">
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sanjujc&" alt="sanjayjayachandran"/>
 </p>
