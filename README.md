@@ -1,5 +1,5 @@
 <!-- Header Section --> 
-<h1 align="center">Hello, I'm Sanju Jayachandran! 👋</h1> ![Visitor Count](https://komarev.com/ghpvc/?username=sanjujc&color=brightgreen)
+<h1 align="center">Hello, I'm Sanju Jayachandran! 👋</h1> [![Visitor Count](https://komarev.com/ghpvc/?username=sanjujc&color=brightgreen)
 
 <h2 align="center" color='red'>I know how to get things done!!!</h2>
 <h3 align="center"> Software Engineer | Backend Developer | API Specialist</h3>
