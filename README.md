@@ -45,6 +45,9 @@
 
 <br>
 <br>
+
+![Visitor Count](https://komarev.com/ghpvc/?username=sanjujc&color=brightgreen)
+
  
 <!-- GitHub Stats Section -->
 <p align="center">
