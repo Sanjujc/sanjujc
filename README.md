@@ -56,7 +56,7 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dynamic Quotes"/>
 </p>
 
-
+ 
 <!-- About Me and Interests Section -->
 ## About Me
 I am a dedicated software engineer with a strong focus on backend development and API engineering. With experience in Python, FastAPI, and cloud technologies like Microsoft Azure, I craft scalable and reliable applications.
