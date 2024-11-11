@@ -3,7 +3,6 @@
 <h2 align="center" color='red'>I know how to get things done!!!</h2>
 <h3 align="center"> Software Engineer | Backend Developer | API Specialist</h3>
  
-<!-- Contact Information -->
 <p align="center">
   📫 How to reach me: <a href="mailto:sanju.jayachandran.d@gmail.com">sanju.jayachandran.d@gmail.com</a>
 </p>
