@@ -7,7 +7,6 @@
   📫 How to reach me: <a href="mailto:sanju.jayachandran.d@gmail.com">sanju.jayachandran.d@gmail.com</a>
 </p>
 
-<!-- Skills Section -->
 <h3  align="center">Languages and Tools:</h3>
 <p align="center">
   <a href="https://www.python.org/" target="_blank" rel="noreferrer">
@@ -50,7 +49,6 @@
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sanjujc&" alt="sanjayjayachandran"/>
 </p>
  
-<!-- GitHub Stats Section -->
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dynamic Quotes"/>
 </p>
