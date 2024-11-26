@@ -44,15 +44,6 @@
 <br>
 <br>
 
-/"
-<p align="center">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sanjujc&" alt="sanjayjayachandran"/>
-</p>
- 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dynamic Quotes"/>
-</p>
-"/
 
 ## About Me
 I am a dedicated software engineer with a strong focus on backend development and API engineering. With experience in Python, FastAPI, and cloud technologies like Microsoft Azure, I craft scalable and reliable applications.
